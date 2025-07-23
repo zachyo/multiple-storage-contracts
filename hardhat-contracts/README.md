@@ -7,7 +7,7 @@ Try running some of the following tasks:
 Contract Address for Storage smart contract on sepolia eth
 **0xAc9852745094AEEa3648af6ee9dc6d780b811c56**
 
-Contract Address for Storage smart contract on sepolia eth
+Contract Address for Storage smart contract on core dao
 ****
 
 
